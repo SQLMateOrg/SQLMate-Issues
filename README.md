@@ -1,0 +1,2 @@
+# SQLMate-Issues
+SQLMate Support
